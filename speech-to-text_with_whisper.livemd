@@ -1,0 +1,33 @@
+<!-- livebook:{"persist_outputs":true} -->
+
+# Speech-to-text with Whisper
+
+```elixir
+Mix.install(
+  [
+    {:kino_bumblebee, "~> 0.4.0"},
+    {:torchx, ">= 0.0.0"}
+  ],
+  config: [nx: [default_backend: Torchx.Backend]]
+)
+```
+
+## Section
+
+<!-- livebook:{"attrs":"e30","chunks":null,"kind":"Elixir.KinoBumblebee.TaskCell","livebook_object":"smart_cell"} -->
+
+```elixir
+
+```
+
+<!-- livebook:{"output":true} -->
+
+```
+nil
+```
+
+<!-- livebook:{"attrs":"e30","chunks":null,"kind":"Elixir.KinoBumblebee.TaskCell","livebook_object":"smart_cell"} -->
+
+```elixir
+
+```
